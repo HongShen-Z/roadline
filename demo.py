@@ -16,7 +16,7 @@ import cv2 as cv
 import matplotlib.pyplot as plt
 
 # Global Variables
-IMG_LOCATION = "g.jpg"
+IMG_LOCATION = "a.jpg"
 
 # Tools
 # Canny检测
